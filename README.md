@@ -1,9 +1,3 @@
-<div align="center">
-  <img height="200" src="file:///C:/Users/Administrator/Downloads/kINZA%20sYED.gif"  />
-</div>
-
-###
-
 h1 align="center">Hi 👋, I'm I am Kinza Syed</h1>
 <h3 align="center">A passionate AI enthusiast</h3>
 
